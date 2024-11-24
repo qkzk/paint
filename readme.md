@@ -13,6 +13,10 @@ You can
 - Undo (no redo lol)
 - Clear the screen
 
+## Example
+
+![Screenshot](./img/screenshot_001.jpg)
+
 ## Installation:
 
 Clone this repository and install the requirements:
