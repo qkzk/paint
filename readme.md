@@ -25,6 +25,8 @@ Clone this repository and install the requirements:
 $ pip install -r requirements.txt
 ```
 
+Full screen mode assumes xrandr is correctly installed & configured and you run it on the primary screen.
+
 ## Help:
 
 ```sh
